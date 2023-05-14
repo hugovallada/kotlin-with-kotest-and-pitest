@@ -1,7 +1,7 @@
 package com.github.hugovallada.kotest.domain
 
-import com.github.hugovallada.kotest.enums.Values.PERCENTAGE_MAX
 import com.github.hugovallada.kotest.extension.percentage
+import com.github.hugovallada.kotest.shared.Values.PERCENTAGE_MAX
 import java.math.BigDecimal
 import java.time.ZonedDateTime
 

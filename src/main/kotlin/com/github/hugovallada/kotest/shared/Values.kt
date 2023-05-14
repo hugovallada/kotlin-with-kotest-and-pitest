@@ -1,4 +1,4 @@
-package com.github.hugovallada.kotest.enums
+package com.github.hugovallada.kotest.shared
 
 object Values {
     const val PERCENTAGE_MAX = 100

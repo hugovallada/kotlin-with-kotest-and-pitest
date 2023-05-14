@@ -1,6 +1,6 @@
 package com.github.hugovallada.kotest.domain
 
-import com.github.hugovallada.kotest.enums.Values.MIN_SIZE
+import com.github.hugovallada.kotest.shared.Values.MIN_SIZE
 
 @JvmInline
 value class ClientDocument(val documentNumber: String) {
